@@ -1,0 +1,4 @@
+{
+  "name": "QComp-Task4",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm"
+}
